@@ -1,2 +1,2 @@
 # Week2Asg
-Week 2 Assignment
+This is a Couersera Week 2 Assignment repository
